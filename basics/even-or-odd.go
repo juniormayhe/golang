@@ -11,7 +11,7 @@ func main() {
 
 		result := "odd"
 
-		if number%2 == 0 {
+		if number % 2 == 0 {
 			result = "even"
 		}
 
